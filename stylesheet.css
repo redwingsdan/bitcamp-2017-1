@@ -1,0 +1,149 @@
+.grid_test{
+ height: 50px;
+    width: 50px;
+    background-color: #CC0000;
+}
+
+.img {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.bomb{
+ position: relative;
+ left: 150;
+ right: 0;
+ height: 50px;
+ width: 50px;
+}
+
+div {
+	margin: 50px auto;
+	background-color: #CC0000;
+}
+
+.box_shadow_method {
+  width:50px; height:50px;
+	
+  background:black;
+  margin:30px 0px 450px 100px;
+	
+  -webkit-box-shadow:
+    50px 0px white, 100px 0px 0px black,
+    150px 0px 0px white, 200px 0px 0px black,
+    250px 0px 0px white, 300px 0px 0px black, 350px 0px 0px white,
+ 
+    0px 50px 0px white, 50px 50px 0px black,
+    100px 50px 0px white, 150px 50px 0px black,
+    200px 50px 0px white, 250px 50px 0px black,
+    300px 50px 0px white, 350px 50px 0px black,
+ 
+    0px 100px 0px black, 50px 100px 0px white,
+    100px 100px 0px black, 150px 100px 0px white,
+    200px 100px 0px black, 250px 100px 0px white,
+    300px 100px 0px black, 350px 100px 0px white,
+ 
+    0px 150px 0px white, 50px 150px 0px black,
+    100px 150px 0px white, 150px 150px 0px black,
+    200px 150px 0px white, 250px 150px 0px black,
+    300px 150px 0px white, 350px 150px 0px black,
+ 
+    0px 200px 0px black, 50px 200px 0px white,
+    100px 200px 0px black, 150px 200px 0px white,
+    200px 200px 0px black, 250px 200px 0px white,
+    300px 200px 0px black, 350px 200px 0px white,
+ 
+    0px 250px 0px white, 50px 250px 0px black,
+    100px 250px 0px white, 150px 250px 0px black,
+    200px 250px 0px white, 250px 250px 0px black,
+    300px 250px 0px white, 350px 250px 0px black,
+ 
+    0px 300px 0px black, 50px 300px 0px white,
+    100px 300px 0px black, 150px 300px 0px white,
+    200px 300px 0px black, 250px 300px 0px white,
+    300px 300px 0px black, 350px 300px 0px white,
+ 
+    0px 350px 0px white, 50px 350px 0px black,
+    100px 350px 0px white, 150px 350px 0px black,
+    200px 350px 0px white, 250px 350px 0px black,
+    300px 350px 0px white, 350px 350px 0px black;
+  -moz-box-shadow:
+    50px 0px white, 100px 0px 0px black,
+    150px 0px 0px white, 200px 0px 0px black,
+    250px 0px 0px white, 300px 0px 0px black, 350px 0px 0px white,
+ 
+    0px 50px 0px white, 50px 50px 0px black,
+    100px 50px 0px white, 150px 50px 0px black,
+    200px 50px 0px white, 250px 50px 0px black,
+    300px 50px 0px white, 350px 50px 0px black,
+ 
+    0px 100px 0px black, 50px 100px 0px white,
+    100px 100px 0px black, 150px 100px 0px white,
+    200px 100px 0px black, 250px 100px 0px white,
+    300px 100px 0px black, 350px 100px 0px white,
+ 
+    0px 150px 0px white, 50px 150px 0px black,
+    100px 150px 0px white, 150px 150px 0px black,
+    200px 150px 0px white, 250px 150px 0px black,
+    300px 150px 0px white, 350px 150px 0px black,
+ 
+    0px 200px 0px black, 50px 200px 0px white,
+    100px 200px 0px black, 150px 200px 0px white,
+    200px 200px 0px black, 250px 200px 0px white,
+    300px 200px 0px black, 350px 200px 0px white,
+ 
+    0px 250px 0px white, 50px 250px 0px black,
+    100px 250px 0px white, 150px 250px 0px black,
+    200px 250px 0px white, 250px 250px 0px black,
+    300px 250px 0px white, 350px 250px 0px black,
+ 
+    0px 300px 0px black, 50px 300px 0px white,
+    100px 300px 0px black, 150px 300px 0px white,
+    200px 300px 0px black, 250px 300px 0px white,
+    300px 300px 0px black, 350px 300px 0px white,
+ 
+    0px 350px 0px white, 50px 350px 0px black,
+    100px 350px 0px white, 150px 350px 0px black,
+    200px 350px 0px white, 250px 350px 0px black,
+    300px 350px 0px white, 350px 350px 0px black;
+  box-shadow:
+    50px 0px white, 100px 0px 0px black,
+    150px 0px 0px white, 200px 0px 0px black,
+    250px 0px 0px white, 300px 0px 0px black, 350px 0px 0px white,
+ 
+    0px 50px 0px white, 50px 50px 0px black,
+    100px 50px 0px white, 150px 50px 0px black,
+    200px 50px 0px white, 250px 50px 0px black,
+    300px 50px 0px white, 350px 50px 0px black,
+ 
+    0px 100px 0px black, 50px 100px 0px white,
+    100px 100px 0px black, 150px 100px 0px white,
+    200px 100px 0px black, 250px 100px 0px white,
+    300px 100px 0px black, 350px 100px 0px white,
+ 
+    0px 150px 0px white, 50px 150px 0px black,
+    100px 150px 0px white, 150px 150px 0px black,
+    200px 150px 0px white, 250px 150px 0px black,
+    300px 150px 0px white, 350px 150px 0px black,
+ 
+    0px 200px 0px black, 50px 200px 0px white,
+    100px 200px 0px black, 150px 200px 0px white,
+    200px 200px 0px black, 250px 200px 0px white,
+    300px 200px 0px black, 350px 200px 0px white,
+ 
+    0px 250px 0px white, 50px 250px 0px black,
+    100px 250px 0px white, 150px 250px 0px black,
+    200px 250px 0px white, 250px 250px 0px black,
+    300px 250px 0px white, 350px 250px 0px black,
+ 
+    0px 300px 0px black, 50px 300px 0px white,
+    100px 300px 0px black, 150px 300px 0px white,
+    200px 300px 0px black, 250px 300px 0px white,
+    300px 300px 0px black, 350px 300px 0px white,
+ 
+    0px 350px 0px white, 50px 350px 0px black,
+    100px 350px 0px white, 150px 350px 0px black,
+    200px 350px 0px white, 250px 350px 0px black,
+    300px 350px 0px white, 350px 350px 0px black;
+}
